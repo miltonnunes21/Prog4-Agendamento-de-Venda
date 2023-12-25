@@ -1,0 +1,137 @@
+@charset "UTF-8";@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@8400;7008display=swap');
+
+body{
+font-family: 'Open Sans', sans serif;
+font-size: 1em;
+font-weight: 400;
+
+}
+
+
+
+
+h1{
+color:rgb(0, 128, 192);
+margin-right: -199px;
+}
+
+.botao1{
+text-decoration: none;
+background-color:rgb(0, 128, 192);
+padding: 5px 10px 5px 10px;
+color:#fff;
+font-size: 1.2em;
+font-weight:700;
+border-radius: 5px;
+border: 0;
+cursor: pointer;
+
+ 
+}
+
+.botao3{
+text-decoration: none;
+background-color:#d51213;
+padding: 5px 10px 5px 10px;
+color:#fff;
+font-size: 1.2em;
+font-weight:700;
+border-radius: 5px;
+
+}
+
+.botao2{
+text-decoration: none;
+background-color:rgb(0, 128, 192);
+padding: 5px 10px 5px 10px;
+color:#fff;
+font-size: 1.2em;
+font-weight:700;
+border-radius: 5px;
+border: 0;
+cursor: pointer;
+margin-left:695px;
+
+ 
+}
+
+
+#caixa3{
+margin-top: 30px;
+margin-botton: 10px;
+border: 1px solid #ff0000;
+
+ 
+}
+
+
+.caixa1{
+width:320px;
+padding:5px;
+margin-bottom:10px;
+border: 1px solid rgb(0, 128, 192);
+border-radius: 5px;
+}
+
+.caixa2{
+padding:5px;
+margin-bottom:10px;
+border: 1px solid rgb(0, 128, 192);
+border-radius: 5px;
+}
+
+#tabela{
+
+margin-top:30px;
+border-collapse: collopse;
+margin-left: 455px;
+
+}
+
+#tabela th{
+
+border: 1px solid #ddd;
+padding: 10px;
+text-align: left;
+background-color:rgb(0, 128, 192);
+color: #fff;
+
+}
+
+#tabela td{
+border: 1px solid #ddd;
+padding: 10px;
+text-align: center;
+
+
+}
+
+.prin{
+	margin-left: 644px;
+	
+}
+
+.prin img{
+margin-left: 85px;	
+	
+	
+}
+
+.prin a{
+	margin-left: 115px;	
+	
+	}
+	
+.prin2 h1  {
+	
+	text-align: center;
+	}
+	
+ .botao1  {
+	
+	text-align: center;
+	}
+.prin2 a .botao1{
+	margin-left: 250px;
+}
